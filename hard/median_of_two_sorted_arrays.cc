@@ -6,6 +6,7 @@
 * respectively.Find the median of the two sorted arrays. The overall
 * run time complexity should be O(log (m+n)).
 * (More details in https://leetcode.com/problems/median-of-two-sorted-arrays/)
+* @CreatedTime: 15/7/16
 ******************************************************************************/
 class Solution{
 public:
@@ -35,28 +36,12 @@ public:
                     ++iter2;
                 }
             }
-            for(auto iter = numbers.begin(); iter != numbers.end(); ++iter){
-                std::cout << *iter << " ";
-            }
-            std::cout << std::endl;
             int length = numbers.size();
-            std::cout << "length: " << length << "\n";
             if(length % 2){
-                std::cout << "I'm in if\n";
                 return (static_cast<double>(numbers[length / 2 ]));
             }else{
-                std::cout << "I'm in else\n";
                 return static_cast<double>((numbers[length / 2] + numbers[length / 2 - 1]) * 0.5);
             }
     }
 };
-int main(int argc, char **argv)
-{
-    std::vector<int> int_vec1{2, 3}, int_vec2{2};
-    Solution test;
-    //std::cout << test.FindMedianSortedArrays(int_vec1, int_vec2);
-    int i  = 2;
-    double t = 2.0;
-    std::cout << static_cast<double>(t);
-    return 0;
-}
+
