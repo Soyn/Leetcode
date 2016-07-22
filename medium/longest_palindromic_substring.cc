@@ -40,9 +40,4 @@ public:
         return longest;
     }
 };
-int main(int argc, char **argv)
-{
-    Solution test;
-    std::cout << test.LongestPalindromic("fabcbaeabc");
-    return 0;
-}
+

@@ -1,5 +1,11 @@
 #include <iostream>
 #include <climits>
+/******************************************************
+* @Author: Soyn
+* @Brief:Reverse digits of an integer. More details in
+* https://leetcode.com/problems/reverse-integer/
+* CreatedTime: 21/7/16
+******************************************************/
 class Solution{
 public:
     int Reverse(int x)
@@ -17,9 +23,4 @@ public:
         return result;
     }
 };
-int main(int argc, char **argv)
-{
-    Solution test;
-    std::cout << test.Reverse(1534236469) << std::endl;
-    return 0;
-}
+
