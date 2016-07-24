@@ -11,3 +11,5 @@ exercises for work.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](medium/longest_palindromic_substring.cc)| Medium|
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](easy/zigzag_conversion.cc)| Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](easy/reverse_integer.cc)| Easy |
+| 8 | [String to integer](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](easy/string_to_integer.cc)|Easy|
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](easy/palindrome_number.cc)||
