@@ -15,3 +15,5 @@ exercises for work.
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](easy/palindrome_number.cc)|easy|
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Unsolved | Hard |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](medium/container_with_most_water.cc) | Medium |
+| 12 | [Integer To Roman](https://leetcode.com/problems/integer-to-roman) | [C++](medium/integer_to_roman.cc) | Medium |
+| 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[C++](easy/roman_to_integer.cc) | Easy |
