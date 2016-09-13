@@ -17,3 +17,5 @@ exercises for work.
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](medium/container_with_most_water.cc) | Medium |
 | 12 | [Integer To Roman](https://leetcode.com/problems/integer-to-roman) | [C++](medium/integer_to_roman.cc) | Medium |
 | 13 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[C++](easy/roman_to_integer.cc) | Easy |
+| 14 | [3 Sum](https://github.com/Soyn/Leetcode) | [C++](medium/three_sum.cc) | Medium|
+ 
